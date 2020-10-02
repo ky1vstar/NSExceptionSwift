@@ -1,4 +1,4 @@
-#if __OBJC__
+#if __APPLE__
 
 #import "NSExceptionSwift.h"
 
